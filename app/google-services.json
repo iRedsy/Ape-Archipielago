@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "669175134403",
+    "firebase_url": "https://ape-archipielago.firebaseio.com",
+    "project_id": "ape-archipielago",
+    "storage_bucket": "ape-archipielago.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:669175134403:android:11bc2929bf52e7e0ca8a76",
+        "android_client_info": {
+          "package_name": "com.example.apearchipielago"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "669175134403-7k3aqvuu4cl9us0658f6a2hohii6cuc9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.apearchipielago",
+            "certificate_hash": "b74b6edd031933eefd055df483b70123b7a00604"
+          }
+        },
+        {
+          "client_id": "669175134403-e9gkrui59voefr72k1dl6rbh38dd3u3c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCw0XY8oyYCb9ndqHAsGgzGHjTeBr8XEms"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "669175134403-e9gkrui59voefr72k1dl6rbh38dd3u3c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
